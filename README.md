@@ -21,8 +21,6 @@ Para rodar este projeto localmente, você precisa ter instalado:
 - Node.js
 - npm (gerenciador de pacotes do Node.js)
 
-Certifique-se de ter uma chave de API válida do YouTube para acessar a API v3 do YouTube.
-
 ## Instalação
 
 1. Clone o repositório para sua máquina local.
@@ -35,9 +33,4 @@ Certifique-se de ter uma chave de API válida do YouTube para acessar a API v3 d
 
 1.Obtenha uma chave de API do YouTube em [Google Developers Console](https://console.cloud.google.com/apis/dashboard) 
 
-## Rodando o Servidor
-
-Para iniciar o servidor Node.js
-```bash
-   npm start
 
