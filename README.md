@@ -1,6 +1,6 @@
 # Projeto de Busca e Favoritos de Vídeos
 
-Este projeto implementa uma aplicação web para buscar vídeos utilizando a API do YouTube e permitir aos usuários adicionar vídeos aos favoritos.
+Este projeto é uma aplicação web desenvolvida com Node.js, Express e JavaScript no frontend. Ele permite aos usuários buscar vídeos do YouTube usando a API do YouTube, visualizar os resultados, e adicionar ou remover vídeos como favoritos.
 
 ## Funcionalidades
 
